@@ -6,7 +6,7 @@ I know:
 1. Repl
 2. HTML
 3. NodeJS
-4. Javascript
+4. JavaScript
 5. Css
 6. Chalk
 6. Git, etc and learning ...
